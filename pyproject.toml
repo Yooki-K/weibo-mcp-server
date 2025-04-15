@@ -1,0 +1,21 @@
+[project]
+name = "weibo-mcp-server"
+version = "0.1.0"
+description = "MCP weibo project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "lxml>=5.3.2",
+    "mcp>=1.6.0",
+    "requests>=2.32.3",
+]
+[[project.authors]]
+name = "yooki.k"
+email = "yooki.k613@gmail.com"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+weibo_mcp_server = "weibo_mcp_server:main"
