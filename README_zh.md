@@ -88,7 +88,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
   }
 ```
 ## 许可证
-
+MIT License.
 ## 贡献
 1.复刻（Fork）本仓库
 2.创建你的特性分支（`git checkout -b feature/amazing-feature`）

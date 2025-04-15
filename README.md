@@ -92,7 +92,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 ```
 
 ## License
-
+MIT License - see LICENSE file for details.
 ## Contributing
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
